@@ -7,9 +7,9 @@ API_ID = int(os.environ.get("API_ID", "39398322"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","b09b6dd8517b08add2dfd44e564c0a9b")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8756739891:AAH99L4alxt78AshvrSVb8r7-4HMBLSAzQk")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8881163728:AAEwUlj-rxUUVmaVZYDoytRaJf4bjBdS0Sg")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@s2550_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@sks12345_bot")
 BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6781856827"))
